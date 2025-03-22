@@ -7,3 +7,7 @@ Most of template is in `preamble.tex` all the imports, styles and commands are c
 ## Recommended setup
 I recommend to use pdflatex with `neovim`, `vimtex`, `Ultisnips` and `zathura`. You can find useful articles on this site: [castel.dev](https://castel.dev/) for the setup.
 
+## Examples
+Particulars examples of lecture notes with the use of these setup you can find here:
+- [lecture notes on my site](https://dobbikov.com/lecutre_notes)
+- [my lecture notes on github (with pdfs)](https://dobbikov.github.io/semester4-lecture-notes/)
