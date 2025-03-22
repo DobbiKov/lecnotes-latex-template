@@ -9,5 +9,5 @@ I recommend to use pdflatex with `neovim`, `vimtex`, `Ultisnips` and `zathura`. 
 
 ## Examples
 Particulars examples of lecture notes with the use of these setup you can find here:
-- [lecture notes on my site](https://dobbikov.com/lecutre_notes)
+- [lecture notes on my site](https://dobbikov.com/lecture_notes)
 - [my lecture notes on github (with pdfs)](https://dobbikov.github.io/semester4-lecture-notes/)
